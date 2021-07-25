@@ -1,2 +1,5 @@
-# work
-training
+S
+T
+A
+R
+T
